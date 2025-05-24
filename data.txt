@@ -1,0 +1,1 @@
+"Hello this is text for my python chroma db. it uses vector database for RAG."
